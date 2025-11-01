@@ -1,0 +1,167 @@
+@charset "UTF-8";
+#main_container {
+	width: 1100px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#main_container #clear_a {
+	clear: both;
+}
+#main_container #static_c {
+	position: fixed;
+	left: 0px;
+	top: 432px;
+}
+#main_container #nav_cont_right {
+	float: right;
+	width: 410px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#main_container #static_a {
+	height: 34px;
+	width: 36px;
+	position: fixed;
+	top: 330px;
+	left: 0px;
+}
+#main_container #static_b {
+	position: fixed;
+	left: 0px;
+	top: 381px;
+}
+#main_container #static_d {
+	position: fixed;
+	left: 0px;
+	top: 570px;
+}
+#main_container #static_e a {
+	position: fixed;
+	left: 0px;
+	top: 621px;
+}
+#main_container #main_page_content #clear_g {
+	clear: both;
+}
+#main_container #nav_cont_left #nav_cont_inner {
+	float: right;
+}
+#main_container #nav_cont_left #nav_cont_inner #nav_cont_inner_left_ {
+	float: left;
+	padding-right: 10px;
+}
+#main_container #clear_f {
+	clear: both;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #666666;
+	padding-right: 50px;
+	border-right-width: medium;
+	border-right-style: solid;
+	border-right-color: #666666;
+	line-height: 14px;
+}
+#main_container #lutefisk {
+	left: 0px;
+	padding-bottom: 8px;
+}
+#main_container #nav_cont_right #words {
+	float: right;
+}
+#main_container #main_page_content #clear_g {
+	clear: right;
+}
+#main_container #nav_cont_left {
+	float: left;
+	width: 620px;
+	padding-left: 50px;
+}
+#main_container #twitter {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	width: 200px;
+	font-style: italic;
+	text-align: left;
+	line-height: 14px;
+	color: #666666;
+	float: none;
+	padding-right: 25px;
+}
+#main_container #social_media {
+	float: right;
+	width: 210px;
+}
+#main_container #clear_e {
+	clear: both;
+}
+#main_container #main_page_content #lower_level_links {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 25px;
+	color: #666666;
+	float: left;
+	padding-top: 15px;
+}
+#main_container #lutefisk {
+	float: none;
+}
+#main_container #date_padding {
+	float: left;
+	height: 25px;
+	width: 950px;
+}
+#main_container #date {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	float: left;
+	height: 25px;
+	width: 150px;
+	line-height: -10px;
+	text-align: center;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+#main_container #clear_b {
+	clear: both;
+}
+#main_container #clear_c {
+	clear: both;
+}
+#main_container #clear_d {
+	clear: right;
+}
+#main_container #main_page_content #contact {
+	float: left;
+}
+#main_container #two_pt_rule_lower_level {
+	padding-top: 15px;
+	padding-right: 50px;
+	padding-bottom: 15px;
+	clear: both;
+}
+#main_container #main_page_content #lower_level_gallery {
+	float: right;
+	padding-top: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: oblique;
+	line-height: 15px;
+	color: #333333;
+	z-index: 2;
+}
+#main_container #main_page_content #lower_level_gallery_fix {
+	float: right;
+	padding-top: 15px;
+	padding-right: 200px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: oblique;
+	line-height: 15px;
+	color: #333333;
+}
+#main_container #main_page_content #clear_h {
+	clear: both;
+}
